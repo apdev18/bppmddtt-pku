@@ -1,0 +1,25 @@
+{
+  "name": "bppmddtt-server",
+  "version": "1.0.0",
+  "description": "sistem informasi arsip surat menyurat dengan menggunakan teknologi mern stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apdev18/bppmddtt-pku.git"
+  },
+  "keywords": [
+    "arsip",
+    "surat",
+    "bppmddtt",
+    "pekanbaru"
+  ],
+  "author": "Alga Prananda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apdev18/bppmddtt-pku/issues"
+  },
+  "homepage": "https://github.com/apdev18/bppmddtt-pku#readme"
+}
